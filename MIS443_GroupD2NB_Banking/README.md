@@ -7,7 +7,7 @@
 
 ## Project Description
 
-This project recreates the **Banking** schema from [SQL Practice Online](https://www.sqlpractice.com/) in PostgreSQL. The database models a simplified bank consisting of five related tables (`branches`, `customers`, `accounts`, `transactions`, `loans`) and includes complete solutions for all 30 SQL practice questions provided for this schema.
+This project recreates the **Banking** schema from [SQL Practice Online](https://www.sql-practice.online/practice/banking?engine=postgresql) in PostgreSQL. The database models a simplified bank consisting of five related tables (`branches`, `customers`, `accounts`, `transactions`, `loans`) and includes complete solutions for all 30 SQL practice questions provided for this schema.
 
 ## Team Members & Contributions
 
@@ -70,7 +70,7 @@ MIS443_GroupD2NB_Banking/
 
 ## Source
 
-* Schema and question set provided by: [SQL Practice Online - Banking](https://www.sqlpractice.com/)
+* Schema and question set provided by: [SQL Practice Online - Banking](https://www.sql-practice.online/practice/banking?engine=postgresql)
 
 ## Acknowledgement
 
